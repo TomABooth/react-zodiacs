@@ -1,3 +1,5 @@
+import './ZodiacCard.css';
+
 export default function ZodiacCard({ name, dates }) {
   return (
     <div className="zodiac-card">

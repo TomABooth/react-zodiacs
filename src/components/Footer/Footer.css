@@ -1,3 +1,13 @@
-Footer {
-  background-color: red;
+footer {
+  color: #846075;
+  text-transform: uppercase;
+  font-weight: bold;
+  height: 40px;
+  background-color: #c0bcb5;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
 }
