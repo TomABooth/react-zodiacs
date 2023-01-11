@@ -1,0 +1,20 @@
+.zodiac-card {
+  width: 200px;
+  background-color: #846075;
+  margin: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  color: #c0bcb5;
+}
+
+.zodiac-card img {
+  width: 100px;
+}
+
+.zodiac-card .name {
+  text-transform: uppercase;
+  font-weight: bold;
+}
